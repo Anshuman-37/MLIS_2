@@ -1,4 +1,4 @@
-## The workin of this is bit different to understand 
+## The working of this is bit counter intutive to understand 
 
 ![Image](https://github.com/Anshuman-37/MLIS_2/blob/main/examples/intro/Neural_Representaino.jpg?raw=true)
 
